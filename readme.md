@@ -12,17 +12,17 @@ Criar uma página web simples com:
 ## ✅ Requisitos Atendidos
 
 **HTML**
-	•	Cabeçalho com título ou logo
-	•	Seção <main> com conteúdo principal
-	•	Rodapé <footer> com links ou informações
+- Cabeçalho com título ou logo
+- Seção <main> com conteúdo principal
+- Rodapé <footer> com links ou informações
 
 **CSS**
-	•	Cor de fundo personalizada
-	•	Fontes com tamanho e tipo definidos
-	•	Centralização do texto do cabeçalho
-	•	Imagem com borda ou sombra
-	•	Lista estilizada (com ícones ou cores)
-	•	Efeito hover nos links do rodapé
+- Cor de fundo personalizada
+- Fontes com tamanho e tipo definidos
+- Centralização do texto do cabeçalho
+- Imagem com borda ou sombra
+- Lista estilizada (com ícones ou cores)
+- Efeito hover nos links do rodapé
 
 ## 🧠 Aprendizados
 
