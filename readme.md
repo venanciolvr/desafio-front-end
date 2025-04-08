@@ -2,7 +2,7 @@
 
 Este repositório contém minha solução para o Desafio WEB, cujo objetivo é construir uma página estática com HTML e CSS, aplicando boas práticas de estruturação e estilização.
 
-## 🧠 Objetivo
+## 🎯 Objetivo
 
 Criar uma página web simples com:
 	•	Estrutura semântica bem definida
