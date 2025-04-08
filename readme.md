@@ -26,7 +26,7 @@ Criar uma página web simples com:
 
 ## 🧠 Aprendizados
 
-Esse desafio foi uma oportunidade prática de reforçar os fundamentos da construção de páginas web, além de experimentar estilos criativos com CSS puro.
+Esse desafio foi uma oportunidade prática de reforçar os fundamentos da construção de páginas web, além de experimentar estilos criativos com CSS.
 
 ## 📄 Licença
 
